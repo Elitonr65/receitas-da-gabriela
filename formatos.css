@@ -1,0 +1,61 @@
+/* Global settings */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: #3a1f1f;
+    background-color: #d7a199;
+}
+
+/* Header */
+header {
+    background-color: #d7a199;
+    padding: 10px;
+}
+
+nav a {
+    font-size: 14px;
+    color: #3a1f1f;
+    text-decoration: none;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+/* Main Section */
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    text-align: center;
+}
+
+.logo-section {
+    text-align: center;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 10px 0;
+}
+
+p {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+/* Footer */
+footer {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
