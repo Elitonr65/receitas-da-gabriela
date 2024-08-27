@@ -39,8 +39,8 @@ O site é projetado para ser responsivo, ajustando-se para diferentes tamanhos d
 ## Demonstração do Projeto
 
 Veja uma breve demonstração do projeto em vídeo:
+![Vídeo do Projeto](./src/image/layout/site-receitas.mp4)
 
-<iframe width="560" height="315" src="./src/image/layout/site-receitas.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Prints do Projeto
 
