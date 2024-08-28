@@ -39,7 +39,7 @@ O site é projetado para ser responsivo, ajustando-se para diferentes tamanhos d
 ## Demonstração do Projeto
 
 Veja uma breve demonstração do projeto em vídeo:
-<iframe width="560" height="315" src="https://youtu.be/3_u7-S8C7fo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Assista ao vídeo](https://img.youtube.com/vi/3_u7-S8C7fo/0.jpg)](https://www.youtube.com/watch?v=3_u7-S8C7fo)
 
 
 ## Prints do Projeto
